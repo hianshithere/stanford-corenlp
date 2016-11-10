@@ -1,0 +1,16 @@
+Prerequisites-JDK 1.8 and eclipse with java perspective
+
+1.Download stanford coreNLP package-http://stanfordnlp.github.io/CoreNLP/history.html(version 3.6.0)
+
+2.Read the coreNLP API-http://stanfordnlp.github.io/CoreNLP/api.html
+
+3.How to setup and begin with the package-https://www.youtube.com/watch?v=w4rWpvBjBRI(I recommend to include all the JAR files and I have attached the java file for the program,copy the code in ur eclipse environment)
+
+4.Another example to begin with-http://stackoverflow.com/questions/4985463/how-to-parse-a-list-of-sentences
+
+5.Study all the annotations,annotators on the corenlp homepage.
+
+6.After getting an idea on the field and package we have to study another package and topic open information extraction-http://nlp.stanford.edu/software/openie.html
+
+PS-after you complete all of these try finding and executing more codes and try to understand all of them.
+Study deeplearning too as we would require it in our project.
